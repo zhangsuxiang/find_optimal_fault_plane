@@ -1,0 +1,2 @@
+# find_optimal_fault_plane
+在给定应力状态下搜索最优破裂断层面参数
